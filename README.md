@@ -40,7 +40,11 @@ Siapin alat dan bahannya.
 > aplikasi whatsapp
 > aplikasi termux
 ```
-### INSTALASI
+### INSTALASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
+
+masuk termux.
+
+```bash
 > $termux-setup-storage
 > $pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs && pkg install mc
 > $apt update && apt upgrade
