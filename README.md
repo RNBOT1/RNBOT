@@ -40,6 +40,13 @@ Siapin alat dan bahannya.
 > aplikasi whatsapp
 > aplikasi termux
 ```
-
+### INSTALASI
+> $termux-setup-storage
+> $pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs && pkg install mc
+> $apt update && apt upgrade
+> $git clone https://github.com/RNBOT1/RNBOT
+> $cd RNBOT
+> $bash install.sh
+> scan deh
 
 Ket: Aktiv 24 jam
