@@ -51,6 +51,7 @@ masuk termux.
 > $git clone https://github.com/RNBOT1/RNBOT
 > $cd RNBOT
 > $bash install.sh
+> $npm start
 > scan deh
 
-Ket: Aktiv 24 jam
+ket: Aktiv 24 jan
